@@ -56,9 +56,9 @@ def getTrainDataset():
    #and 真值表
    inputs = [[0,0],[0,1],[1,0],[1,1]];
    #and
-   # labels = [0,0,0,1];
+   labels = [0,0,0,1];
    #or
-   labels = [0,1,1,1];
+   # labels = [0,1,1,1];
    return inputs,labels;
 
 
