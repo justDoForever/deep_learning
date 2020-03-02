@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0480ab43-4321-42b0-9acd-18e50d4b3acf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YYRIlFoNb7LpuZh37bsvp0PLGA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="perception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\whc\Miniconda3\envs\python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/perception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.perception" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0480ab43-4321-42b0-9acd-18e50d4b3acf" name="Default Changelist" comment="" />
+      <created>1583117463768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583117463768</updated>
+      <workItem from="1583117475767" duration="11122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="134" width="1115" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583117675681">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="402" y="134" width="1115" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1024@0.0.1920.1024" timestamp="1583117675681" />
+    <state width="1852" height="391" key="GridCell.Tab.0.bottom" timestamp="1583136564748">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1852" height="391" key="GridCell.Tab.0.bottom/0.0.1920.1024@0.0.1920.1024" timestamp="1583136564748" />
+    <state width="1852" height="391" key="GridCell.Tab.0.center" timestamp="1583136564748">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1852" height="391" key="GridCell.Tab.0.center/0.0.1920.1024@0.0.1920.1024" timestamp="1583136564748" />
+    <state width="1852" height="391" key="GridCell.Tab.0.left" timestamp="1583136564748">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1852" height="391" key="GridCell.Tab.0.left/0.0.1920.1024@0.0.1920.1024" timestamp="1583136564748" />
+    <state width="1852" height="391" key="GridCell.Tab.0.right" timestamp="1583136564748">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1852" height="391" key="GridCell.Tab.0.right/0.0.1920.1024@0.0.1920.1024" timestamp="1583136564748" />
+    <state x="214" y="0" key="SettingsEditor" timestamp="1583120847370">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="214" y="0" key="SettingsEditor/0.0.1920.1024@0.0.1920.1024" timestamp="1583120847370" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/deep_learning$perception.coverage" NAME="perception Coverage Results" MODIFIED="1583136564731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
