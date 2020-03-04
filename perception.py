@@ -1,4 +1,4 @@
-# coding:utf-8
+#coding:utf-8
 class Perception(object):
    def __init__(self,input_num,activator):
       self.weights = [0.0 for _ in range(input_num)];
@@ -29,7 +29,7 @@ class Perception(object):
    def predict(self, input):
       return self.activator(
          reduce(
-            lambda x, y:x+y,map(lambda (x, y):x*y,zip(self.weights,input)),0.0
+            lambda x, y:x+y,map(lambda x, y:x*y,self.weights,input),0.0
             )
           + self.bias
       )
