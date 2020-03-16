@@ -77,10 +77,12 @@ def and_perception():
 
 
 if __name__ == '__main__':
-   # a = [1 for _ in range(2)]
-   # b = [2,3]
+   a = [1 for _ in range(3)]
+   b = [2,3]
+   print a
+   print map(lambda (x,y):x*y,zip(a,b))
    # print reduce(lambda x, y:x+y,map(lambda (x,y):x*y,zip(a,b)),0.0)
-   # print zip(a,b)
+   print zip(a,b)
    # for (c,d) in zip(a,b):
    #    print c," ",d
    p = and_perception();
