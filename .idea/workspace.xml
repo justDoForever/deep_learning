@@ -27,9 +27,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Python.fcn">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\whc\PycharmProjects\deep_learning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.digital_recognition">
     <configuration name="LinearUnit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="deep_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,6 +50,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearUnit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="digital_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/digital_recognition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.digital_recognition" />
         <item itemvalue="Python.fcn" />
         <item itemvalue="Python.perception" />
         <item itemvalue="Python.LinearUnit" />
@@ -121,6 +150,8 @@
       <workItem from="1584067756839" duration="14885000" />
       <workItem from="1584240231809" duration="6979000" />
       <workItem from="1584323458520" duration="3791000" />
+      <workItem from="1584360961447" duration="3553000" />
+      <workItem from="1584416228318" duration="16222000" />
     </task>
     <servers />
   </component>
@@ -136,22 +167,22 @@
       <screen x="0" y="0" width="1920" height="1024" />
     </state>
     <state x="402" y="134" width="1115" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1024@0.0.1920.1024" timestamp="1583117675681" />
-    <state width="1852" height="251" key="GridCell.Tab.0.bottom" timestamp="1584327261379">
+    <state width="1852" height="479" key="GridCell.Tab.0.bottom" timestamp="1584448169255">
       <screen x="0" y="0" width="1920" height="1024" />
     </state>
-    <state width="1852" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1024@0.0.1920.1024" timestamp="1584327261379" />
-    <state width="1852" height="251" key="GridCell.Tab.0.center" timestamp="1584327261378">
+    <state width="1852" height="479" key="GridCell.Tab.0.bottom/0.0.1920.1024@0.0.1920.1024" timestamp="1584448169255" />
+    <state width="1852" height="479" key="GridCell.Tab.0.center" timestamp="1584448169254">
       <screen x="0" y="0" width="1920" height="1024" />
     </state>
-    <state width="1852" height="251" key="GridCell.Tab.0.center/0.0.1920.1024@0.0.1920.1024" timestamp="1584327261378" />
-    <state width="1852" height="251" key="GridCell.Tab.0.left" timestamp="1584327261378">
+    <state width="1852" height="479" key="GridCell.Tab.0.center/0.0.1920.1024@0.0.1920.1024" timestamp="1584448169254" />
+    <state width="1852" height="479" key="GridCell.Tab.0.left" timestamp="1584448169254">
       <screen x="0" y="0" width="1920" height="1024" />
     </state>
-    <state width="1852" height="251" key="GridCell.Tab.0.left/0.0.1920.1024@0.0.1920.1024" timestamp="1584327261378" />
-    <state width="1852" height="251" key="GridCell.Tab.0.right" timestamp="1584327261379">
+    <state width="1852" height="479" key="GridCell.Tab.0.left/0.0.1920.1024@0.0.1920.1024" timestamp="1584448169254" />
+    <state width="1852" height="479" key="GridCell.Tab.0.right" timestamp="1584448169254">
       <screen x="0" y="0" width="1920" height="1024" />
     </state>
-    <state width="1852" height="251" key="GridCell.Tab.0.right/0.0.1920.1024@0.0.1920.1024" timestamp="1584327261379" />
+    <state width="1852" height="479" key="GridCell.Tab.0.right/0.0.1920.1024@0.0.1920.1024" timestamp="1584448169254" />
     <state x="214" y="0" key="SettingsEditor" timestamp="1583120847370">
       <screen x="0" y="0" width="1920" height="1024" />
     </state>
@@ -177,6 +208,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/deep_learning$digital_recognition.coverage" NAME="digital_recognition Coverage Results" MODIFIED="1584448169232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deep_learning$perception.coverage" NAME="perception Coverage Results" MODIFIED="1584279659579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deep_learning$LinearUnit.coverage" NAME="LinearUnit Coverage Results" MODIFIED="1583329464635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deep_learning$fcn.coverage" NAME="fcn Coverage Results" MODIFIED="1584327261347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

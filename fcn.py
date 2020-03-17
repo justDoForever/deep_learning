@@ -3,9 +3,11 @@
 import random
 from math import e
 
+from numpy import exp
+
 
 def sigmoid(output):
-    return 1 / (1 + pow(e,-output))
+    return 1 / (1 + exp(-output))
 
 #结点类 负责记录和维护结点自身信息以及这个结点的上下游连接 实现输出值和误差项的计算
 class Node(object):
